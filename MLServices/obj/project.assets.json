@@ -1585,9 +1585,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alexis\\MIS PROYECTOS\\NET\\AsistenteVirtualML\\MLServices\\AsistenteVirtualML.Service.csproj",
-      "projectName": "AsistenteVirtualML.Service",
-      "projectPath": "C:\\Users\\Alexis\\MIS PROYECTOS\\NET\\AsistenteVirtualML\\MLServices\\AsistenteVirtualML.Service.csproj",
+      "projectUniqueName": "C:\\Users\\Alexis\\MIS PROYECTOS\\NET\\AsistenteVirtualML\\MLServices\\AsistenteVirtualML.Servicios.csproj",
+      "projectName": "AsistenteVirtualML.Servicios",
+      "projectPath": "C:\\Users\\Alexis\\MIS PROYECTOS\\NET\\AsistenteVirtualML\\MLServices\\AsistenteVirtualML.Servicios.csproj",
       "packagesPath": "C:\\Users\\Alexis\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Alexis\\MIS PROYECTOS\\NET\\AsistenteVirtualML\\MLServices\\obj\\",
       "projectStyle": "PackageReference",

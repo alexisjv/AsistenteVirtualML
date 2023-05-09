@@ -30,10 +30,10 @@ namespace AsistenteVirualML.Datos
 
     }
 
-    public class ScoreEntry
+    public class ProductoPuntuacion
     {
-        public string Product { get; set; }
-        public float Score { get; set; }
+        public string Producto { get; set; }
+        public float Puntuacion { get; set; }
     }
 
 }

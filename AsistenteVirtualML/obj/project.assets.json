@@ -571,7 +571,7 @@
           }
         }
       },
-      "AsistenteVirtualML.Service/1.0.0": {
+      "AsistenteVirtualML.Servicios/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -579,10 +579,10 @@
           "Microsoft.ML": "2.0.1"
         },
         "compile": {
-          "bin/placeholder/AsistenteVirtualML.Service.dll": {}
+          "bin/placeholder/AsistenteVirtualML.Servicios.dll": {}
         },
         "runtime": {
-          "bin/placeholder/AsistenteVirtualML.Service.dll": {}
+          "bin/placeholder/AsistenteVirtualML.Servicios.dll": {}
         }
       },
       "AsistenteVirualML.Datos/1.0.0": {
@@ -1792,10 +1792,10 @@
         "system.threading.tasks.nuspec"
       ]
     },
-    "AsistenteVirtualML.Service/1.0.0": {
+    "AsistenteVirtualML.Servicios/1.0.0": {
       "type": "project",
-      "path": "../MLServices/AsistenteVirtualML.Service.csproj",
-      "msbuildProject": "../MLServices/AsistenteVirtualML.Service.csproj"
+      "path": "../MLServices/AsistenteVirtualML.Servicios.csproj",
+      "msbuildProject": "../MLServices/AsistenteVirtualML.Servicios.csproj"
     },
     "AsistenteVirualML.Datos/1.0.0": {
       "type": "project",
@@ -1805,7 +1805,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "AsistenteVirtualML.Service >= 1.0.0",
+      "AsistenteVirtualML.Servicios >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -1836,8 +1836,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Alexis\\MIS PROYECTOS\\NET\\AsistenteVirtualML\\MLServices\\AsistenteVirtualML.Service.csproj": {
-              "projectPath": "C:\\Users\\Alexis\\MIS PROYECTOS\\NET\\AsistenteVirtualML\\MLServices\\AsistenteVirtualML.Service.csproj"
+            "C:\\Users\\Alexis\\MIS PROYECTOS\\NET\\AsistenteVirtualML\\MLServices\\AsistenteVirtualML.Servicios.csproj": {
+              "projectPath": "C:\\Users\\Alexis\\MIS PROYECTOS\\NET\\AsistenteVirtualML\\MLServices\\AsistenteVirtualML.Servicios.csproj"
             }
           }
         }

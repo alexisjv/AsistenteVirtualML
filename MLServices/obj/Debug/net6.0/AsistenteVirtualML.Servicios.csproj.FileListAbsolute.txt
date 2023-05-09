@@ -1,0 +1,15 @@
+C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\MLServices\bin\Debug\net6.0\AsistenteVirtualML.Servicios.deps.json
+C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\MLServices\bin\Debug\net6.0\AsistenteVirtualML.Servicios.dll
+C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\MLServices\bin\Debug\net6.0\AsistenteVirtualML.Servicios.pdb
+C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\MLServices\bin\Debug\net6.0\AsistenteVirualML.Datos.dll
+C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\MLServices\bin\Debug\net6.0\AsistenteVirualML.Datos.pdb
+C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\MLServices\obj\Debug\net6.0\AsistenteVirtualML.Servicios.csproj.AssemblyReference.cache
+C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\MLServices\obj\Debug\net6.0\AsistenteVirtualML.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\MLServices\obj\Debug\net6.0\AsistenteVirtualML.Servicios.AssemblyInfoInputs.cache
+C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\MLServices\obj\Debug\net6.0\AsistenteVirtualML.Servicios.AssemblyInfo.cs
+C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\MLServices\obj\Debug\net6.0\AsistenteVirtualML.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\MLServices\obj\Debug\net6.0\AsistenteVirtualML.Servicios.csproj.CopyComplete
+C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\MLServices\obj\Debug\net6.0\AsistenteVirtualML.Servicios.dll
+C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\MLServices\obj\Debug\net6.0\refint\AsistenteVirtualML.Servicios.dll
+C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\MLServices\obj\Debug\net6.0\AsistenteVirtualML.Servicios.pdb
+C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\MLServices\obj\Debug\net6.0\ref\AsistenteVirtualML.Servicios.dll

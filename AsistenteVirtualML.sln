@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsistenteVirtualML.API", "AsistenteVirtualML\AsistenteVirtualML.API.csproj", "{45818140-80F3-4EAF-8E71-CDA1A536B7CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsistenteVirtualML.API", "AsistenteVirtualML\AsistenteVirtualML.API.csproj", "{45818140-80F3-4EAF-8E71-CDA1A536B7CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsistenteVirtualML.Service", "MLServices\AsistenteVirtualML.Service.csproj", "{4B7DD143-61BA-4927-9F3A-5F594644A17C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsistenteVirtualML.Servicios", "MLServices\AsistenteVirtualML.Servicios.csproj", "{4B7DD143-61BA-4927-9F3A-5F594644A17C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsistenteVirualML.Datos", "AsistenteVirualData\AsistenteVirualML.Datos.csproj", "{D574FCEB-F2DB-4FEF-9515-09D1C6CC2C3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsistenteVirualML.Datos", "AsistenteVirualData\AsistenteVirualML.Datos.csproj", "{D574FCEB-F2DB-4FEF-9515-09D1C6CC2C3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MLServices\AsistenteVirtualML.Service.csproj" />
+    <ProjectReference Include="..\MLServices\AsistenteVirtualML.Servicios.csproj" />
   </ItemGroup>
 
   <ItemGroup>

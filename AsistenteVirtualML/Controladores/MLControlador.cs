@@ -1,6 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.ML;
-using MLServices;
+﻿using AsistenteVirualML.Datos;
+using AsistenteVirualML.Servicios;
+using Microsoft.AspNetCore.Mvc;
 
 namespace AsistenteVirtualML.Controladores
 {
@@ -9,27 +9,19 @@ namespace AsistenteVirtualML.Controladores
     public class MLControlador : Controller
     {
 
-        private IMLService mLService;
+        private IMLServicio mLServicio;
 
-        public MLControlador(IMLService mLService)
+        public MLControlador(IMLServicio mLServicio)
         {
-            this.mLService = mLService;
+            this.mLServicio = mLServicio;
         }
 
         [HttpGet]
         public IActionResult Index()
         {
-            var datosDeEntrenamiento = mLService.ObtenerDatosDeEntrenamiento();
-            var tuberia = mLService.ProcesarDatos();
+            var productosRecomendados = mLServicio.ObtenerProductosRecomendados();
 
-            mLService.Entrenar(datosDeEntrenamiento, tuberia);
-            mLService.GuardarModeloComoArchivo(datosDeEntrenamiento.Schema);
-            mLService.Evaluar(datosDeEntrenamiento.Schema);
-
-
-            var predictionResult = mLService.PredecirItem();
-
-            return Json(new { productosRecomendados = predictionResult });
+            return Ok(new { productosRecomendados });
         }
     }
 }

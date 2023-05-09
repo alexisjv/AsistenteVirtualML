@@ -39,9 +39,7 @@ C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\AsistenteVirtualML\bin\Debu
 C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\AsistenteVirtualML\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
 C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\AsistenteVirtualML\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\AsistenteVirtualML\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\AsistenteVirtualML\bin\Debug\net6.0\AsistenteVirtualML.Service.dll
 C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\AsistenteVirtualML\bin\Debug\net6.0\AsistenteVirualML.Datos.dll
-C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\AsistenteVirtualML\bin\Debug\net6.0\AsistenteVirtualML.Service.pdb
 C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\AsistenteVirtualML\bin\Debug\net6.0\AsistenteVirualML.Datos.pdb
 C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\AsistenteVirtualML\obj\Debug\net6.0\AsistenteVirtualML.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\AsistenteVirtualML\obj\Debug\net6.0\staticwebassets.build.json
@@ -54,3 +52,5 @@ C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\AsistenteVirtualML\obj\Debu
 C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\AsistenteVirtualML\obj\Debug\net6.0\AsistenteVirtualML.API.genruntimeconfig.cache
 C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\AsistenteVirtualML\obj\Debug\net6.0\ref\AsistenteVirtualML.API.dll
 C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\AsistenteVirtualML\bin\Debug\net6.0\Data\datos-prueba.tsv
+C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\AsistenteVirtualML\bin\Debug\net6.0\AsistenteVirtualML.Servicios.dll
+C:\Users\Alexis\MIS PROYECTOS\NET\AsistenteVirtualML\AsistenteVirtualML\bin\Debug\net6.0\AsistenteVirtualML.Servicios.pdb

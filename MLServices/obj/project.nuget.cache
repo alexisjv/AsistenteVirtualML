@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/319XbjtYtBzoD2ohF2IDMFUkGkG0IVJja//zrdnPa6u1yepruuTxSALolMn+CstHeUqVLbkhI/9xDdczKKfpw==",
+  "dgSpecHash": "zSDDSYKjGnR5fzY080iuUPw28pomkrOmwuG4MCGuPjfcNP3rUbBRP4A6l8deMie/lb/VcdiwLOg1hRwZ9vyGCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alexis\\MIS PROYECTOS\\NET\\AsistenteVirtualML\\MLServices\\AsistenteVirtualML.Service.csproj",
+  "projectFilePath": "C:\\Users\\Alexis\\MIS PROYECTOS\\NET\\AsistenteVirtualML\\MLServices\\AsistenteVirtualML.Servicios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.ml\\2.0.1\\microsoft.ml.2.0.1.nupkg.sha512",
     "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.ml.cpumath\\2.0.1\\microsoft.ml.cpumath.2.0.1.nupkg.sha512",

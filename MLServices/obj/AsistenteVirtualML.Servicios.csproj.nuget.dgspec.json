@@ -1,77 +1,9 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexis\\MIS PROYECTOS\\NET\\AsistenteVirtualML\\AsistenteVirtualML\\AsistenteVirtualML.API.csproj": {}
+    "C:\\Users\\Alexis\\MIS PROYECTOS\\NET\\AsistenteVirtualML\\MLServices\\AsistenteVirtualML.Servicios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexis\\MIS PROYECTOS\\NET\\AsistenteVirtualML\\AsistenteVirtualML\\AsistenteVirtualML.API.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Alexis\\MIS PROYECTOS\\NET\\AsistenteVirtualML\\AsistenteVirtualML\\AsistenteVirtualML.API.csproj",
-        "projectName": "AsistenteVirtualML.API",
-        "projectPath": "C:\\Users\\Alexis\\MIS PROYECTOS\\NET\\AsistenteVirtualML\\AsistenteVirtualML\\AsistenteVirtualML.API.csproj",
-        "packagesPath": "C:\\Users\\Alexis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexis\\MIS PROYECTOS\\NET\\AsistenteVirtualML\\AsistenteVirtualML\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Alexis\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "C:\\Users\\Alexis\\MIS PROYECTOS\\NET\\AsistenteVirtualML\\MLServices\\AsistenteVirtualML.Servicios.csproj": {
-                "projectPath": "C:\\Users\\Alexis\\MIS PROYECTOS\\NET\\AsistenteVirtualML\\MLServices\\AsistenteVirtualML.Servicios.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.2.3, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
     "C:\\Users\\Alexis\\MIS PROYECTOS\\NET\\AsistenteVirtualML\\AsistenteVirualData\\AsistenteVirualML.Datos.csproj": {
       "version": "1.0.0",
       "restore": {
